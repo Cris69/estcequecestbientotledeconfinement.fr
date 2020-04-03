@@ -22,3 +22,13 @@ Aujourd'hui, aucune date n'a encore été avancée, bien que différents plans s
 <img src="img/covid-gestes.png" alt="drawing" width="800"/>
 
 _dernière mise à jour_: 03/04/2020
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162694802-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-162694802-1');
+</script>
