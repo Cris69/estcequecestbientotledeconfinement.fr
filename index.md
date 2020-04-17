@@ -2,7 +2,7 @@
 
 **Non**.
 
-Aujourd'hui, aucune date n'a encore été avancée, bien que différents plans sont à l'étude par le gouvernement.
+En tout cas, Notre Gouvernement à annoncé : pas avant le lundi 11 mai 2020 (j'ai un doute sur "2020"...), et progressivement.
 
 # En attendant...
 
@@ -21,4 +21,9 @@ Aujourd'hui, aucune date n'a encore été avancée, bien que différents plans s
 
 <img src="img/covid-gestes.png" alt="drawing" width="800"/>
 
-_dernière mise à jour_: 03/04/2020
+## Liens utiles
+
+https://www.caresteouvert.fr
+« Ça reste ouvert » est l’outil indispensable pour éviter les déplacements infructueux autour de chez vous durant le confinement et limiter ainsi le risque de contagion. Cette carte collaborative vous permet de partager simplement les lieux ouverts ou fermés dans votre quartier. C’est la manière la plus efficace et la plus solidaire pour informer au mieux vos voisins et les habitants de votre ville.
+
+_dernière mise à jour_: 17/04/2020
